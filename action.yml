@@ -4,3 +4,4 @@ description: 'This action allows to use Salesforce Sfdx Git Delta'
 runs:
   using: 'node12'
   main: 'index.js'
+  
