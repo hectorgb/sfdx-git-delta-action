@@ -1,0 +1,6 @@
+name: 'Salesforce Sfdx Git Delta Action'
+author: Hector Gonzalez Barata
+description: 'This action allows to use Salesforce Sfdx Git Delta'
+runs:
+  using: 'node14'
+  main: 'index.js'
